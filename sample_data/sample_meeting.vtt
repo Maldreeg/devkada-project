@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+John Smith: Good morning everyone, welcome to our weekly team standup meeting.
+
+00:00:05.000 --> 00:00:12.000
+Sarah Johnson: Thanks John! I'm excited to share that I completed the user authentication feature yesterday.
+
+00:00:12.000 --> 00:00:18.000
+John Smith: That's excellent news Sarah! The authentication was a critical piece. How did the testing go?
+
+00:00:18.000 --> 00:00:25.000
+Sarah Johnson: Testing went really well. All edge cases are covered and the code is ready for review.
+
+00:00:25.000 --> 00:00:32.000
+John Smith: Perfect. Mike, can you review Sarah's pull request by Friday?
+
+00:00:32.000 --> 00:00:38.000
+Mike Chen: Absolutely, I'll have the code review completed by end of day Thursday.
+
+00:00:38.000 --> 00:00:45.000
+Sarah Johnson: Thanks Mike! After this is merged, I'll start working on the dashboard analytics feature next week.
+
+00:00:45.000 --> 00:00:52.000
+Mike Chen: I wanted to bring up something concerning. We've been seeing some performance issues during load testing.
+
+00:00:52.000 --> 00:01:00.000
+Mike Chen: The response times are slower than expected when we have more than 100 concurrent users.
+
+00:01:00.000 --> 00:01:08.000
+John Smith: That's definitely concerning Mike. We need to address this before the launch. Can you put together a detailed analysis?
+
+00:01:08.000 --> 00:01:15.000
+Mike Chen: Yes, I'll document the performance metrics and potential bottlenecks by Monday.
+
+00:01:15.000 --> 00:01:23.000
+John Smith: Great. Let's also schedule a dedicated meeting to discuss performance optimizations. Sarah, can you send out a calendar invite?
+
+00:01:23.000 --> 00:01:30.000
+Sarah Johnson: Sure thing! I'll send the invite for next Tuesday at 2 PM. Will that work for everyone?
+
+00:01:30.000 --> 00:01:35.000
+Mike Chen: Tuesday at 2 works for me.
+
+00:01:35.000 --> 00:01:40.000
+John Smith: Perfect for me too. Anything else we need to cover today?
+
+00:01:40.000 --> 00:01:47.000
+Sarah Johnson: Just wanted to mention that the design team shared the new mockups yesterday. They look amazing!
+
+00:01:47.000 --> 00:01:55.000
+John Smith: Wonderful! The design team has been doing fantastic work. Let's make sure we review those in our next planning session.
+
+00:01:55.000 --> 00:02:02.000
+Mike Chen: Agreed. I'm really happy with how the project is coming together, despite the performance challenges.
+
+00:02:02.000 --> 00:02:08.000
+John Smith: Great attitude Mike. We'll tackle these issues together. Thanks everyone for the great work!
+
+00:02:08.000 --> 00:02:12.000
+Sarah Johnson: Thanks John! Have a great rest of the week everyone.
+
+00:02:12.000 --> 00:02:15.000
+Mike Chen: You too! See you all next week.

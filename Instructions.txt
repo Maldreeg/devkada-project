@@ -1,0 +1,18 @@
+Goal: Develop a web with AI Agent, its purpose is to summerize meetings (Zoom, Microsoft Teams) and
+it is context dependent, meaning it understand what the meeting is about, the web app can also have an input of name and a their positionn in a Team
+that way, not only it summarize the the meeting but also knows to assign the role depending on the meeting
+
+INPUTS:
+the transcript file(.txt or .vtt)
+chatlogs
+attachments(documents/powerpoints/pdf)
+Customization Options: Allow users to customize summary formats (e.g., bullet points, narrative style) and the level of detail based on their preferences or company standards.
+
+OUTPUTS:
+Summary of the meeting, and names of the people and their tasks(Topic Segmentation, Speaker Intent Detection, Knowledge Graph Building)
+Behavior Analysis(Sentiment Analysis, Engagement Heat Map): Analyze the tone of the discussions to provide insights into the overall sentiment of the meeting, which can help gauge team morale and engagement.
+Visual Summaries: Generate visual representations of the meeting outcomes, such as mind maps or infographics, to complement the text summary.
+Integrations with Collaboration Tools: Connect with tools like Slack, Microsoft Teams, or Asana to share summaries and action items directly within the platforms teams already use.
+
+Use free open source platform/APIs and make it lightweight and easier to run
+But I think I prefer backend is python and react.js for frontend
