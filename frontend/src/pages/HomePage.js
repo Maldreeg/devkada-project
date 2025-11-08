@@ -45,7 +45,7 @@ function HomePage() {
   return (
     <Box>
       <Typography variant="h3" gutterBottom>
-        Welcome to ZoomBrain
+        Welcome to ANT
       </Typography>
       <Typography variant="h6" color="text.secondary" gutterBottom>
         AI-Powered Meeting Summarization with Sentiment Analysis

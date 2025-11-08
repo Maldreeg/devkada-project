@@ -39,7 +39,7 @@ function App() {
             <Toolbar>
               <BrainIcon sx={{ mr: 2 }} />
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                ZoomBrain - AI Meeting Summarizer
+                ANT - AI Meeting Summarizer
               </Typography>
               <Button color="inherit" component={Link} to="/">
                 Home
