@@ -10,7 +10,9 @@ Customization Options: Allow users to customize summary formats (e.g., bullet po
 
 OUTPUTS:
 Summary of the meeting, and names of the people and their tasks(Topic Segmentation, Speaker Intent Detection, Knowledge Graph Building)
+    - connect to google calendar ONLY IF there are dates mentioned,
 Behavior Analysis(Sentiment Analysis, Engagement Heat Map): Analyze the tone of the discussions to provide insights into the overall sentiment of the meeting, which can help gauge team morale and engagement.
+    -Perform tool call. For sentiment analysis with either 80+ (positive) and -80 (negative) - it should send an email to those participants. If positive - say congrats! If negative - say how they are feeling.
 Visual Summaries: Generate visual representations of the meeting outcomes, such as mind maps or infographics, to complement the text summary.
 Integrations with Collaboration Tools: Connect with tools like Slack, Microsoft Teams, or Asana to share summaries and action items directly within the platforms teams already use.
 
