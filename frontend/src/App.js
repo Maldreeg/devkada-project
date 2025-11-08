@@ -11,7 +11,7 @@ import {
   ThemeProvider,
   createTheme
 } from '@mui/material';
-import { Brain as BrainIcon } from '@mui/icons-material';
+import { Psychology as BrainIcon } from '@mui/icons-material';
 import HomePage from './pages/HomePage';
 import UploadPage from './pages/UploadPage';
 import MeetingDetailPage from './pages/MeetingDetailPage';

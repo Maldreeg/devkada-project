@@ -1,0 +1,75 @@
+Mark: Alright, let’s get started, everyone. Thanks for joining on time. I know it’s been a busy week with the new product push and a few deals hanging in limbo. I want us to go over last week’s numbers, talk through the lead pipeline, and figure out what’s getting in the way of closing faster.
+Allen: Sounds good, Mark. I’ve got updates on a few accounts that might finally move forward this week.
+Gab: Same here. I’ve been analyzing the conversion data, and there are some interesting patterns that might help us prioritize.
+Mark: Perfect. Let’s start with the numbers, then. Gab, give us the overview.
+Gab: Sure. So last week we closed $162,000 in new business, which is about 12% below our weekly average. The good news is our pipeline for the next two weeks looks stronger—especially in manufacturing and healthcare. Our renewal rate is holding steady at 91%, but new customer acquisition has slowed down compared to early in the quarter.
+Mark: Yeah, I noticed that. Feels like the top of the funnel has thinned a bit. Any idea why?
+Gab: Lead volume from marketing dropped around 8% week over week. Click-through rates are steady, but conversion from form fills to qualified leads declined. It could be timing or maybe ad fatigue.
+Allen: I think part of it’s that prospects are being extra cautious right now. A few I’ve been chasing keep saying they need “internal approvals” or “budget clarity.” It’s like every deal takes longer to mature.
+Mark: That seems to be happening everywhere. Decision cycles are dragging out. But we can’t let that slow us down. Which deals are you closest to closing, Allen?
+Allen: The big one is Northridge Medical. We’ve had four calls, and they’re happy with the proposal. The only holdup is IT—security review is pending. If that clears this week, it should close by next Friday.
+Mark: That’s a solid one. What’s the deal size again?
+Allen: About $74K annually. It’s a subscription, so good recurring value.
+Mark: Nice. And what about smaller accounts?
+Allen: I’ve got Everline Logistics and BrightMart Retail in the proposal stage. BrightMart’s a bit price-sensitive, though—they keep asking for additional discounts even though we’re already below market.
+Mark: That’s frustrating. Don’t bend too much. Make sure they understand the long-term value. If they’re focusing only on price, that’s a red flag.
+Allen: Yeah, I agree. They’re still engaged, just dragging things out.
+Gab: I actually pulled up their previous interactions in the CRM. Looks like they’ve downloaded our case study three times and spent an average of six minutes on the ROI calculator. So, they’re clearly interested—they just need a push.
+Mark: That’s useful, Gab. Let’s maybe send them a tailored email highlighting customer savings over time. Make it specific.
+Allen: Got it. I’ll draft that after this meeting.
+Mark: Good. Now, Gab, about the CRM—how’s adoption looking across the team?
+Gab: Better this week. Data completeness jumped from 78% to 86%. But there are still missing activity logs, mostly from older deals. The notes section is underused, which makes it harder to analyze deal movement.
+Allen: Guilty as charged. I log the basics, but not always detailed notes. Sometimes I’m just moving too fast.
+Mark: I get it, but remember—if it’s not logged, it doesn’t exist. We can’t make smart calls without full data.
+Allen: Yeah, fair point. I’ll be more disciplined about that.
+Gab: Once everyone’s consistent, the system’s reports will be a lot more accurate. Right now, some deals look stagnant because activities weren’t logged, even though they were happening.
+Mark: Alright, let’s make that a priority. I want full updates in the CRM before Friday.
+Allen: Will do.
+Mark: Now, let’s talk about what’s actually blocking deals from closing. Be honest—what’s slowing us down the most right now?
+Allen: Honestly? It’s timing and indecision. Clients are cautious. They’re not saying no, but they’re afraid to commit. I think a lot of them are waiting for their fiscal year resets.
+Mark: That’s a good point. We might be dealing with budget fatigue.
+Gab: The data backs that up. Deal velocity dropped about 15% this month compared to last. The “proposal to close” stage is now averaging 19 days instead of 15.
+Mark: That’s significant. So, what do we do about it?
+Allen: I think we focus on urgency—limited offers, or maybe emphasize cost increases for next year. Give them a reason to act now.
+Mark: I like that. But we have to do it carefully—no false urgency. Just highlight real value.
+Gab: We could also test new messaging. When we used phrases like “locking in your current rate” in email subjects, open rates went up by almost 9%.
+Mark: That’s interesting. Let’s build on that. Gab, can you pull a few examples for us to test?
+Gab: Sure thing. I’ll send them later today.
+Allen: You know, another thing that’s been slowing me down is lead follow-up timing. Some leads sit too long before we reach them.
+Mark: How long are we talking?
+Allen: Sometimes two or three days. By the time I call, they’ve already moved on or lost interest.
+Gab: Yeah, I’ve noticed that pattern too. Leads that get contacted within the first 24 hours convert at almost double the rate of slower follow-ups.
+Mark: That’s a big miss. We need to tighten that window. Gab, can we set up an automated alert when a new qualified lead comes in?
+Gab: Already working on it. Should be live by Monday.
+Mark: Perfect. That should help us respond faster.
+Allen: That’ll make a big difference. Sometimes I only find out about a new lead when I check the dashboard manually.
+Mark: Not anymore. We’ll fix that.
+Gab: Another thing I noticed—our win rate is actually holding steady at 34%. So even with fewer leads, we’re not losing efficiency.
+Mark: That’s encouraging. Means we’re still selling well, just need more opportunities.
+Allen: Yeah, I’m not too worried. I’ve got a few promising conversations lined up this week.
+Mark: Good. Tell me more.
+Allen: One’s with DeltaSource Software. They’re evaluating three vendors, but we’re the only one offering full onboarding support. That’s been a key differentiator.
+Mark: Excellent. Use that. And keep emphasizing our customer success track record—it’s one of our biggest strengths.
+Gab: I’ll send you the latest client satisfaction stats. They’re strong: 96% retention after six months.
+Allen: Perfect, that’ll help me close that deal.
+Mark: Great teamwork. Now, before we move on, how’s everyone feeling about the new outreach messaging? Is it landing?
+Allen: Mostly, yeah. The new email templates are performing better than the old ones. But sometimes they sound a little too formal. Some prospects respond better to a conversational tone.
+Mark: Makes sense. Try personalizing them more. Authenticity beats polish any day.
+Gab: I can run an A/B test—formal vs. conversational—to see which style drives higher response rates.
+Mark: Good idea. Let’s get some data behind it.
+Allen: I also think we need to celebrate wins more. When we close something big, it kind of just… happens quietly.
+Mark: You’re right. We’ve been so focused on catching up that we’ve stopped recognizing success. Let’s fix that. Next big deal we close, we’ll shout it out on Slack.
+Gab: I’ll add a “Weekly Wins” section to the sales report too. It’s good morale fuel.
+Mark: Excellent. Speaking of morale, how’s everyone holding up?
+Allen: Honestly? A little tired. It’s been a grind. But I’m motivated. I can see that we’re close to turning a corner.
+Gab: Same here. It’s busy, but I like seeing the numbers improve week by week.
+Mark: I hear you both. We’ve been pushing hard, but it’s paying off. I think Q4 is going to close strong.
+Allen: Yeah, I feel good about that.
+Mark: Alright, let’s wrap this up. Action items—Gab, finalize those new alert automations and messaging tests. Allen, make sure CRM notes are up to date and send that tailored email to BrightMart. I’ll review pricing flexibility for the last few deals this afternoon.
+Allen: Got it.
+Gab: Will do.
+Mark: Great. Thanks, guys. I appreciate the work you’re both putting in. Let’s stay sharp this week and close out strong.
+Allen: Thanks, Mark. Talk soon.
+Gab: Thanks, everyone.
+Mark: Alright, meeting adjourned.
+

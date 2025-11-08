@@ -17,4 +17,4 @@ Visual Summaries: Generate visual representations of the meeting outcomes, such 
 Integrations with Collaboration Tools: Connect with tools like Slack, Microsoft Teams, or Asana to share summaries and action items directly within the platforms teams already use.
 
 Use free open source platform/APIs and make it lightweight and easier to run
-But I think I prefer backend is python and react.js for frontend
+
